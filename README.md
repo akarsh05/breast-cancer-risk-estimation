@@ -1,5 +1,5 @@
 The dataset consists of 1M records of screening mammograms and the resulting diagnosis.
-1. It has **imbalanced classes** ~ only 7.2% records out of 1M are for positive cancer cases.
+1. It has **imbalanced classes** ~ only **0.73%** records out of 1M are for positive cancer cases.
 2. Features have missing values.
 
 
