@@ -19,9 +19,9 @@ MODEL PERFORMACE:
 3. Hence Precision, Recall and F1-score are better measures of model performance. 
 4. Using a precision-recall curve would be beter than ROC curve as it focuses the performace on the minority class.
 
-**MINIMIZE BUSINESS COSTS:**
+MINIMIZE BUSINESS COSTS:
 1. The cost of a False Negaative (cancer predicted as non-cancer) would be higher than a False Positive (non-cancer predicted as cancer)
-2. According to an article on cancer misdiagnoses, the lifetime burden of False Positives is 2x the burden of False Negatives.
+2. According to an article on breast cancer misdiagnoses, the lifetime burden of False Positives is 2x the burden of False Negatives.
 3. So we can create a cost funtion and choose a model which minimizes the cost function. For us this means, we will err on the side of caution, we will catch more cancer cases at the expense of of misclassifying some non-cancer cases as cancer. 
 
 
