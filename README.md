@@ -1,4 +1,4 @@
-This project is a WIP. This file outlines the process and what is to be expected at the end.
+This project is a **WIP**. This file outlines the process and what is to be expected at the end.
 
 The dataset consists of 1M records of screening mammograms and the resulting diagnosis.
 1. It has **imbalanced classes** ~ only **0.73%** records out of 1M are for positive cancer cases.
